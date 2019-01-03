@@ -1,0 +1,11 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <view name="system, basic, detailed">
+        <image name="background_color" extra="true">
+            <origin>0 0</origin>
+            <pos>0 0</pos>
+            <size>1 1</size>
+            <path>./art/fighters.png</path>
+        </image>
+    </view>
+</theme>
